@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Python",
+        "time": "4 hrs"
+    },
+    {
+        "name": "JavaScript",
+        "time": "11 hrs"
+    }
+]
